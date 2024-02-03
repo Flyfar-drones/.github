@@ -1,4 +1,4 @@
-![Flyfar logo](profile/img/ColorText.svg)
+![Flyfar logo](/ColorText.svg)
 
 ## EN:
 We are a team of 3 highschool students that are currently working on their drone startup to make functional modular drones and working opensource community.
