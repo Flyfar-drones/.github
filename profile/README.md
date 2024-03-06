@@ -1,8 +1,10 @@
 ![Flyfar logo](/profile/img/ColorText.svg)
 
-## EN:
+## About:
 We are a team of 3 highschool students that are currently working on their drone startup to make functional modular drones and working opensource community.
 
+## Awards:
+We managed to win some competitions in our Region, here is a list of them :)
 
-## CZ:
-Jsme tým 3 středoškoláků a pracujeme na našem dronovém startupu jménem **Flyfar** který umožní distribuci modulárních dronů a funkční opensource komunitu.
+- **Startup weekend Pilsen 2023** - 1st place
+- **Technical olympiad PK2024** - 3rd place in technical olympiad in Pilsen region
